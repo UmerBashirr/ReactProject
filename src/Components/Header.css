@@ -21,9 +21,9 @@
     flex-direction: row;
     
   }
-  .card{
+  /* .card{
     padding: 20px;
-  }
+  } */
   .Category{
     text-align: center;
     margin:60px 0px;
@@ -33,3 +33,34 @@
   text-align: center;
   
  }
+ .section{
+  height: 80vh;
+  padding-top: 15px;
+}
+.back{
+  background-color: rgb(255, 247, 225);
+  border-radius: 55px;
+}
+.img{
+display: flex;
+padding-left:50px ;
+}
+.main h1{
+  color: blue;
+}
+.main4{
+  text-align: left;
+  width: 40%;
+  height: 70vh;
+  padding: 20px 0px 0px 20px;
+}
+.main3{
+  display: flex;
+  padding-top: 20px;
+}
+.card1{
+  margin-right: 10px;
+}
+.card2{
+  margin-left: 10px;
+}
